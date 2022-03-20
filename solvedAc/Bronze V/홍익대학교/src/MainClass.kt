@@ -1,0 +1,1 @@
+fun main() = readLine()!!.toInt().let { println(it - 1946) }

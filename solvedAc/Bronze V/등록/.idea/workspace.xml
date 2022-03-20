@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e0dea59-59e8-4e43-a429-4aef6d0d09ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../16진수/16진수.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16진수/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A + B - 2/A + B - 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A + B - 2/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../R2/R2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../R2/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../검증수/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../검증수/검증수.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../긴자리 계산/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../긴자리 계산/긴자리 계산.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/등록.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../심부름 가는 길/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../심부름 가는 길/심부름 가는 길.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../엄청난 부자2/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../엄청난 부자2/엄청난 부자2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../웰컴/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../웰컴/웰컴.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../저작권/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../저작권/저작권.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../카드게임/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../카드게임/카드게임.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../킹, 퀸, 룩 비숍, 나이트, 폰/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../킹, 퀸, 룩 비숍, 나이트, 폰/킹, 퀸, 룩 비숍, 나이트, 폰.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../파티가 끝나고 난 뒤/src/MainClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../파티가 끝나고 난 뒤/파티가 끝나고 난 뒤.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26e9M0UbQmAmp8mySMGRH1kDAvX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="memory.settings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClassKt" />
+      <module name="등록" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainClassKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e0dea59-59e8-4e43-a429-4aef6d0d09ad" name="Changes" comment="" />
+      <created>1647773132594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647773132594</updated>
+      <workItem from="1647773134855" duration="57000" />
+      <workItem from="1647773220078" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
