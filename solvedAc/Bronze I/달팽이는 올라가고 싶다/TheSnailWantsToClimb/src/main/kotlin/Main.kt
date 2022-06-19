@@ -10,17 +10,3 @@ fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
 	}
 	println(day)
 }
-
-//	val (A, B, V) = readLine()!!.split(" ").map { it.toInt() }
-//
-//	var climb = 0
-//	var day = 0
-//	while (true) {
-//		day += 1
-//		climb += A
-//		if (climb >= V) {
-//			break
-//		}
-//		climb -= B
-//	}
-//	println(day)
