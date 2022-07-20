@@ -21,7 +21,7 @@ fun main() {
 	br.close()
 }
 
-fun binarySearch(arr: IntArray, target: Int): Int {
+fun binarySearch(arr: IntArray, target: Int): Int {33
 	var low = 0
 	var high = arr.lastIndex
 	var mid = 0
